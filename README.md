@@ -64,17 +64,12 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rfarakhna&show_icons=true&theme=radical" alt="Rawan's GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfarakhna&layout=compact&theme=radical" alt="Top Languages">
-</p>
+![Rawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rfarakhna&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rfarakhna&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rfarakhna&theme=radical&hide_border=true) 
 
 ## 📈 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rfarakhna&theme=redical" alt="GitHub Activity Graph">
-</p>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rfarakhna&theme=redical" alt="GitHub Activity Graph">
 ---
 
 ## 📬 Connect With Me
