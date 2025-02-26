@@ -59,7 +59,10 @@
 ## 📊 GitHub Stats
 ![Rawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rfarakhna&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rfarakhna&layout=compact&theme=radical)  
+
+### 🔥 GitHub Streak  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rfarakhna&theme=radical&hide_border=true)
+
 
 ## 📈 GitHub Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rfarakhna&theme=redical" alt="GitHub Activity Graph">
