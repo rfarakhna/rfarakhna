@@ -19,37 +19,30 @@
 ## 🚀 Technologies & Tools
 
 ### **Frontend:**
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5">
-  <img src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3">
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript">
-  <img src="https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular">
-</p>
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)
+
+
 
 ### **Backend:**
-<p align="center">
-  <img src="https://img.shields.io/badge/-ASP.NET-blueviolet?style=flat-square&logo=dotnet">
-  <img src="https://img.shields.io/badge/-CSharp-purple?style=flat-square&logo=csharp">
-</p>
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-blueviolet?style=flat-square&logo=dotnet)
+![C#](https://img.shields.io/badge/-CSharp-purple?style=flat-square&logo=csharp)
 
 ### **Databases:**
-<p align="center">
-  <img src="https://img.shields.io/badge/-SQL%20Server-lightgrey?style=flat-square&logo=microsoftsqlserver">
-</p>
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-lightgrey?style=flat-square&logo=microsoftsqlserver)
+
 
 ### **UI/UX:**
-<p align="center">
-  <img src="https://img.shields.io/badge/-Figma-red?style=flat-square&logo=figma">
-  <img src="https://img.shields.io/badge/-Typography-black?style=flat-square">
-</p>
+![Figma](https://img.shields.io/badge/-Figma-red?style=flat-square&logo=figma)
+![Typography](https://img.shields.io/badge/-Typography-black?style=flat-square)
 
 ### **Other Tools:**
-<p align="center">
-  <img src="https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git">
-  <img src="https://img.shields.io/badge/-PrimeNG-teal?style=flat-square&logo=angular">
-  <img src="https://img.shields.io/badge/-jQuery-blue?style=flat-square&logo=jquery">
-  <img src="https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap">
-</p>
+![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
+![PrimeNG](https://img.shields.io/badge/-PrimeNG-teal?style=flat-square&logo=angular)
+![jQuery](https://img.shields.io/badge/-jQuery-blue?style=flat-square&logo=jquery)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)
 
 ---
 
@@ -66,7 +59,7 @@
 ## 📊 GitHub Stats
 ![Rawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rfarakhna&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rfarakhna&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rfarakhna&theme=radical&hide_border=true) 
+![GitHub Streak](https://streak-stats.demolab.com/?user=rfarakhna&theme=radical&hide_border=true)
 
 ## 📈 GitHub Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rfarakhna&theme=redical" alt="GitHub Activity Graph">
